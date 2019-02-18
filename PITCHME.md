@@ -1,10 +1,10 @@
-# Content Calendar
-# Feb 19th 2019  
-## Mark Goodson
-## Cambridge Social Ventures
-## Centre for Social Innovation
+## Content Calendar
+## *Feb 19th 2019*  
+### Mark Goodson
+### Cambridge Social Ventures
+### Centre for Social Innovation
 ---
-# Why should I have a content calendar?  
+## Why should I have a content calendar?  
 
 - Lets you plan and manage your resources. (72% of B2B marketers attribute the success of their content to formal content strategies).
 - Bangs per buck
