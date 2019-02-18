@@ -6,7 +6,7 @@
 ---
 ## Why should I have a content calendar?  
 
-@box[bx-orange](- Lets you plan and manage your resources. (72% of B2B marketers attribute the success of their content to formal content strategies).
+- Lets you plan and manage your resources. (72% of B2B marketers attribute the success of their content to formal content strategies).
 - Bangs per buck
 -   Maximise your impact
 -   The right content, at the right time, on the right platform
@@ -15,7 +15,7 @@
 - Consistency
 - Can spot gaps
 - Maximising impact of important news and events
-- Teamwork)
+- Teamwork
 
 ---
 # Process
